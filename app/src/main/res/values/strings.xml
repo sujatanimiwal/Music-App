@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MusicCloud</string>
+    <string name="song_1">California Dreaming</string>
+    <string name="song_2">Buttons</string>
+    <string name="song_3">International Love</string>
+    <string name="song_4">Chentaje</string>
+    <string name="song_5">La Tortura</string>
+    <string name="song_6">Felices los 4</string>
+    <string name="song_7">Familiar</string>
+    <string name="song_8">Whenever Whenever</string>
+    <string name="song_9">Corrazon</string>
+    <string name="song_10">Safari</string>
+    <string name="singer_1">Snoopdog</string>
+    <string name="singer_2">Pussycat Dolls</string>
+    <string name="singer_3">Pitbull</string>
+    <string name="singer_4">Shakira</string>
+    <string name="singer_5">Alejandro sanz</string>
+    <string name="singer_6">Maluma</string>
+    <string name="singer_7">Liam Payne</string>
+    <string name="singer_8">J Balvin</string>
+    <string name="singer_name">Singer Name</string>
+    <string name="song_name">Song Name</string>
+    <string name="current_playing_song">Current playing song</string>
+    <string name="list_of_songs">List of Songs</string>
+</resources>
